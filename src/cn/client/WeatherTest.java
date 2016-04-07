@@ -7,7 +7,7 @@ import cn.ws.weather.WeatherWebServiceStub.GetWeatherbyCityNameResponse;
 import edu.emory.mathcs.backport.java.util.Arrays;
 
 /**
- *天气预报 
+ *天气预报  
  */
 public class WeatherTest {
 
